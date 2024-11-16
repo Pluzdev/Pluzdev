@@ -6,9 +6,6 @@ Fork on GitHub6898
 <h3 align="center">A passionate frontend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pluzdev&label=Profile%20views&color=0e75b6&style=flat" alt="pluzdev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/pluzdev" target="blank"><img src="https://img.shields.io/twitter/follow/pluzdev?logo=twitter&style=for-the-badge" alt="pluzdev" /></a> </p>
-
 - 🔭 I’m currently working on [improving my skills](https://pluzdev.fr)
 
 - 🌱 I’m currently learning **more backend things**
