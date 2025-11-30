@@ -9,17 +9,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" title="Shopify"/>
 </p>
 
 ---
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pluzdev&theme=radical&show_icons=true&hide_title=true" alt="Pluzdev's GitHub Stats"/>
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pluzdev&theme=radical" alt="Pluzdev's GitHub Streak"/>
 </p>
